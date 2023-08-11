@@ -1,0 +1,24 @@
+# Maven build directory
+target/
+
+# Eclipse IDE
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+
+# Compiled Java classes
+*.class
+
+# Log files
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Dependency directories
+lib/
